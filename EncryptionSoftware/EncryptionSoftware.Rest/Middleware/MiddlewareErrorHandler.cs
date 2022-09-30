@@ -36,7 +36,7 @@ namespace EncryptionSoftware.Rest.Middleware
                 case RestException me:
                     logger.LogError(ex, "Error Handler");
                     errors = me.Errors;
-                    context.Response.StatusCode = (int) me.Code;
+                    context.Response.StatusCode = (int)me.Code;
                     break;
                 case not null:
                     logger.LogError(ex, "Internal Server Error");
@@ -47,7 +47,7 @@ namespace EncryptionSoftware.Rest.Middleware
             context.Response.ContentType = "application/json";
             if (errors != null)
             {
-                var results = JsonConvert.SerializeObject(new {errors});
+                var results = JsonConvert.SerializeObject(new { errors });
                 await context.Response.WriteAsync(results);
             }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\EncryptionSoftware\\EncryptionSoftware.Domain\\EncryptionSoftware.Domain.csproj": {}
+    "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Domain\\EncryptionSoftware.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\EncryptionSoftware\\EncryptionSoftware.Domain\\EncryptionSoftware.Domain.csproj": {
+    "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Domain\\EncryptionSoftware.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\EncryptionSoftware\\EncryptionSoftware.Domain\\EncryptionSoftware.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Domain\\EncryptionSoftware.Domain.csproj",
         "projectName": "EncryptionSoftware.Domain",
-        "projectPath": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\EncryptionSoftware\\EncryptionSoftware.Domain\\EncryptionSoftware.Domain.csproj",
+        "projectPath": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Domain\\EncryptionSoftware.Domain.csproj",
         "packagesPath": "C:\\Users\\davo-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\EncryptionSoftware\\EncryptionSoftware.Domain\\obj\\",
+        "outputPath": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
