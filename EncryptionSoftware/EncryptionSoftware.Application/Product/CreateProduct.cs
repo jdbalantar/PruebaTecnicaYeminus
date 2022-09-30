@@ -3,6 +3,7 @@ using EncryptionSoftware.Application.ErrorHandler;
 using EncryptionSoftware.Domain;
 using EncryptionSoftware.Helpers;
 using EncryptionSoftware.Persistence;
+using FluentValidation;
 using MediatR;
 
 namespace EncryptionSoftware.Application.Product
@@ -16,6 +17,21 @@ namespace EncryptionSoftware.Application.Product
             public string Imagen { get; set; }
             public bool ProductoParaLaVenta { get; set; }
             public int Iva { get; set; }
+        }
+
+        public class CommandValidator : AbstractValidator<CommandCreateProduct>
+        {
+            public CommandValidator()
+            {
+                RuleFor(x => x.Descripcion).NotEmpty().WithMessage("El campo es requerido");
+                RuleFor(x => x.Imagen).NotEmpty().WithMessage("El campo es requerido");
+                RuleFor(x => x.Iva).NotEmpty().WithMessage("El campo es requerido");
+                RuleFor(x => x.ListaDePrecios).NotEmpty().WithMessage("El campo es requerido");
+
+                RuleFor(x => x).Must(x => x.ListaDePrecios.Count > 0)
+                    .WithMessage("El campo es requerido")
+                    .OverridePropertyName("ListaDePrecios");
+            }
         }
 
         public class Handler : IRequestHandler<CommandCreateProduct>
