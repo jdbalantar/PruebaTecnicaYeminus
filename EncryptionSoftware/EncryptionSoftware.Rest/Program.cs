@@ -7,9 +7,18 @@ using FluentValidation.AspNetCore;
 using MediatR;
 using Microsoft.EntityFrameworkCore;
 
-const string myCors = "MyCors";
+
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddCors(options =>
+{
+    options.AddDefaultPolicy(
+        policy =>
+        {
+            policy.WithOrigins("http://localhost:4200/");
+            policy.AllowAnyOrigin();
+        });
+});
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
@@ -18,15 +27,7 @@ builder.Services.AddSwaggerGen();
 //var connectionString = builder.Configuration.GetConnectionString("PostgreSQLConnection");
 var connectionString = builder.Configuration.GetConnectionString("HerokuConnection");
 builder.Services.AddDbContext<EncryptionSoftwareContext>(options => options.UseNpgsql(connectionString));
-builder.Services.AddCors(options =>
-{
-    options.AddPolicy(name: myCors, corsPolicyBuilder =>
-    {
-        corsPolicyBuilder.AllowAnyOrigin().AllowAnyHeader().AllowAnyMethod();
-        corsPolicyBuilder.SetIsOriginAllowed(origin => new Uri(origin).Host == "localhost").AllowAnyHeader()
-            .AllowAnyMethod();
-    });
-});
+
 
 builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddMediatR(typeof(GetProducts.Handler).Assembly);
