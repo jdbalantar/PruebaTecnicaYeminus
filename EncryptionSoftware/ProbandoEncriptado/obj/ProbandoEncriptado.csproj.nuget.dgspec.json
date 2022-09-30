@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\ProbandoEncriptado\\ProbandoEncriptado.csproj": {}
+    "D:\\Escritorio\\PruebaTecnicaYeminus\\EncryptionSoftware\\ProbandoEncriptado\\ProbandoEncriptado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Helpers\\EncryptionSoftware.Helpers.csproj": {
+    "D:\\Escritorio\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Helpers\\EncryptionSoftware.Helpers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Helpers\\EncryptionSoftware.Helpers.csproj",
+        "projectUniqueName": "D:\\Escritorio\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Helpers\\EncryptionSoftware.Helpers.csproj",
         "projectName": "EncryptionSoftware.Helpers",
-        "projectPath": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Helpers\\EncryptionSoftware.Helpers.csproj",
+        "projectPath": "D:\\Escritorio\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Helpers\\EncryptionSoftware.Helpers.csproj",
         "packagesPath": "C:\\Users\\davo-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Helpers\\obj\\",
+        "outputPath": "D:\\Escritorio\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Helpers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\davo-\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -62,21 +61,20 @@
         }
       }
     },
-    "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\ProbandoEncriptado\\ProbandoEncriptado.csproj": {
+    "D:\\Escritorio\\PruebaTecnicaYeminus\\EncryptionSoftware\\ProbandoEncriptado\\ProbandoEncriptado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\ProbandoEncriptado\\ProbandoEncriptado.csproj",
+        "projectUniqueName": "D:\\Escritorio\\PruebaTecnicaYeminus\\EncryptionSoftware\\ProbandoEncriptado\\ProbandoEncriptado.csproj",
         "projectName": "ProbandoEncriptado",
-        "projectPath": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\ProbandoEncriptado\\ProbandoEncriptado.csproj",
+        "projectPath": "D:\\Escritorio\\PruebaTecnicaYeminus\\EncryptionSoftware\\ProbandoEncriptado\\ProbandoEncriptado.csproj",
         "packagesPath": "C:\\Users\\davo-\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\ProbandoEncriptado\\obj\\",
+        "outputPath": "D:\\Escritorio\\PruebaTecnicaYeminus\\EncryptionSoftware\\ProbandoEncriptado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
           "C:\\Users\\davo-\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -90,8 +88,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Helpers\\EncryptionSoftware.Helpers.csproj": {
-                "projectPath": "C:\\Users\\davo-\\OneDrive\\Escritorio\\ProyectosProgramacion\\Pruebas Tecnicas\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Helpers\\EncryptionSoftware.Helpers.csproj"
+              "D:\\Escritorio\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Helpers\\EncryptionSoftware.Helpers.csproj": {
+                "projectPath": "D:\\Escritorio\\PruebaTecnicaYeminus\\EncryptionSoftware\\EncryptionSoftware.Helpers\\EncryptionSoftware.Helpers.csproj"
               }
             }
           }
