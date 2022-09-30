@@ -1,0 +1,5 @@
+C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\TestEncrypt\obj\Debug\net6.0\TestEncrypt.csproj.AssemblyReference.cache
+C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\TestEncrypt\obj\Debug\net6.0\TestEncrypt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\TestEncrypt\obj\Debug\net6.0\TestEncrypt.AssemblyInfoInputs.cache
+C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\TestEncrypt\obj\Debug\net6.0\TestEncrypt.AssemblyInfo.cs
+C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\TestEncrypt\obj\Debug\net6.0\TestEncrypt.csproj.CoreCompileInputs.cache
