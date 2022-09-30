@@ -1,5 +1,6 @@
 ﻿using EncryptionSoftware.Helpers;
 using EncryptionSoftware.Persistence;
+using FluentValidation;
 using MediatR;
 
 namespace EncryptionSoftware.Application.FraseEncriptar
@@ -10,6 +11,20 @@ namespace EncryptionSoftware.Application.FraseEncriptar
         {
             public string Frase { get; set; }
             public int Clave { get; set; }
+        }
+
+        public class CommandValidator : AbstractValidator<CommandEncriptPhrase>
+        {
+            public CommandValidator()
+            {
+                RuleFor(x => x.Frase).NotEmpty().WithMessage("Escriba la frase a encriptar");
+                RuleFor(x => x.Clave).NotEmpty()
+                    .WithMessage("Escriba la cantidad de caracteres usados para la encriptación");
+
+                RuleFor(x => x).Must(x => x.Clave > 0)
+                    .WithMessage("Escriba la cantidad de caracteres usados para la encriptación")
+                    .OverridePropertyName("Clave");
+            }
         }
 
         public class Handler : IRequestHandler<CommandEncriptPhrase>
@@ -32,7 +47,7 @@ namespace EncryptionSoftware.Application.FraseEncriptar
                 if (value > 0)
                     return Unit.Value;
 
-                throw new NotImplementedException();
+                throw new Exception("No se pudo ejecutar la operación solicitada");
             }
         }
     }

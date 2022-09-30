@@ -10,15 +10,3 @@ C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\Encryp
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\refint\EncryptionSoftware.Domain.dll
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.pdb
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\ref\EncryptionSoftware.Domain.dll
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\bin\Debug\net6.0\EncryptionSoftware.Domain.deps.json
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\bin\Debug\net6.0\EncryptionSoftware.Domain.dll
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\bin\Debug\net6.0\EncryptionSoftware.Domain.pdb
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.csproj.AssemblyReference.cache
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.AssemblyInfoInputs.cache
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.AssemblyInfo.cs
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.csproj.CoreCompileInputs.cache
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.dll
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\refint\EncryptionSoftware.Domain.dll
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.pdb
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\ref\EncryptionSoftware.Domain.dll

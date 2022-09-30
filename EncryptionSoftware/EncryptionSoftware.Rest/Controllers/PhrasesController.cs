@@ -39,5 +39,11 @@ namespace EncryptionSoftware.Rest.Controllers
         {
             return await _mediator.Send(new DecryptPhrase.CommandDecryptPhrase { Id = id });
         }
+
+        [HttpDelete("{id:int}")]
+        public async Task<ActionResult<Unit>> DeletePhrase(int id)
+        {
+            return await _mediator.Send(new DeletePhrase.CommandDeletePhrase { Id = id });
+        }
     }
 }

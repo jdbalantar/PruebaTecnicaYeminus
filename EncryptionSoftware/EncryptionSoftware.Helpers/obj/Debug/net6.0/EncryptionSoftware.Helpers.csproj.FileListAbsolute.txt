@@ -10,15 +10,3 @@ C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\Encryp
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\refint\EncryptionSoftware.Helpers.dll
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.pdb
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\ref\EncryptionSoftware.Helpers.dll
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\bin\Debug\net6.0\EncryptionSoftware.Helpers.deps.json
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\bin\Debug\net6.0\EncryptionSoftware.Helpers.dll
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\bin\Debug\net6.0\EncryptionSoftware.Helpers.pdb
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.csproj.AssemblyReference.cache
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.AssemblyInfoInputs.cache
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.AssemblyInfo.cs
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.csproj.CoreCompileInputs.cache
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.dll
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\refint\EncryptionSoftware.Helpers.dll
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.pdb
-C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\ref\EncryptionSoftware.Helpers.dll

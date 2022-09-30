@@ -3,6 +3,7 @@ using EncryptionSoftware.Helpers;
 using EncryptionSoftware.Persistence;
 using MediatR;
 using System.Net;
+using FluentValidation;
 
 namespace EncryptionSoftware.Application.FraseEncriptar
 {
