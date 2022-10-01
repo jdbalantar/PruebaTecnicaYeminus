@@ -21,10 +21,12 @@ namespace EncryptionSoftware.Application.Product
         public class Handler : IRequestHandler<CommandEditProduct>
         {
             private readonly EncryptionSoftwareContext _context;
+            private readonly IUtil _util;
 
-            public Handler(EncryptionSoftwareContext context)
+            public Handler(EncryptionSoftwareContext context, IUtil util)
             {
                 _context = context;
+                _util = util;
             }
 
             public async Task<Unit> Handle(CommandEditProduct request, CancellationToken cancellationToken)
@@ -37,7 +39,7 @@ namespace EncryptionSoftware.Application.Product
                             message = $"No se encontró producto asociado al id {request.Codigo}. Inténtelo nuevamente"
                         });
 
-                if (Util.ImgUrlIsValid(request.Imagen))
+                if (_util.ImgUrlIsValid(request.Imagen))
                     product.Imagen = request.Imagen;
                 else
                     throw new RestException(HttpStatusCode.BadRequest,

@@ -32,3 +32,20 @@ C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\Prueba
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\EncryptionSoftware.Persistence.pdb
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\EncryptionSoftware.Persistence.genruntimeconfig.cache
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\ref\EncryptionSoftware.Persistence.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\bin\Debug\net6.0\EncryptionSoftware.Persistence.deps.json
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\bin\Debug\net6.0\EncryptionSoftware.Persistence.runtimeconfig.json
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\bin\Debug\net6.0\EncryptionSoftware.Persistence.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\bin\Debug\net6.0\EncryptionSoftware.Persistence.pdb
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\bin\Debug\net6.0\EncryptionSoftware.Domain.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\bin\Debug\net6.0\EncryptionSoftware.Domain.pdb
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\EncryptionSoftware.Persistence.csproj.AssemblyReference.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\EncryptionSoftware.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\EncryptionSoftware.Persistence.AssemblyInfoInputs.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\EncryptionSoftware.Persistence.AssemblyInfo.cs
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\EncryptionSoftware.Persistence.csproj.CoreCompileInputs.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\EncryptionSoftware.Persistence.csproj.CopyComplete
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\EncryptionSoftware.Persistence.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\refint\EncryptionSoftware.Persistence.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\EncryptionSoftware.Persistence.pdb
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\EncryptionSoftware.Persistence.genruntimeconfig.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Persistence\obj\Debug\net6.0\ref\EncryptionSoftware.Persistence.dll

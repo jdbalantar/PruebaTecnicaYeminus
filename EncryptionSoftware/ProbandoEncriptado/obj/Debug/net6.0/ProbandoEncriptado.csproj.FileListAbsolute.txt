@@ -16,3 +16,8 @@ C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\Encryp
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\ProbandoEncriptado\obj\Debug\net6.0\ProbandoEncriptado.pdb
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\ProbandoEncriptado\obj\Debug\net6.0\ProbandoEncriptado.genruntimeconfig.cache
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\EncryptionSoftware\ProbandoEncriptado\obj\Debug\net6.0\ref\ProbandoEncriptado.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\ProbandoEncriptado\obj\Debug\net6.0\ProbandoEncriptado.csproj.AssemblyReference.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\ProbandoEncriptado\obj\Debug\net6.0\ProbandoEncriptado.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\ProbandoEncriptado\obj\Debug\net6.0\ProbandoEncriptado.AssemblyInfoInputs.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\ProbandoEncriptado\obj\Debug\net6.0\ProbandoEncriptado.AssemblyInfo.cs
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\ProbandoEncriptado\obj\Debug\net6.0\ProbandoEncriptado.csproj.CoreCompileInputs.cache

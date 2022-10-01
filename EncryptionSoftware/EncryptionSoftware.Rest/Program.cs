@@ -1,12 +1,14 @@
 using EncryptionSoftware.Application.FraseEncriptar;
 using EncryptionSoftware.Application.Product;
+using EncryptionSoftware.Application.UtilImplementation;
+using EncryptionSoftware.Helpers;
 using EncryptionSoftware.Persistence;
 using EncryptionSoftware.Rest.Middleware;
 using FluentValidation;
 using FluentValidation.AspNetCore;
 using MediatR;
+using Microsoft.AspNetCore.WebSockets;
 using Microsoft.EntityFrameworkCore;
-
 
 
 var builder = WebApplication.CreateBuilder(args);
@@ -33,7 +35,7 @@ builder.Services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 builder.Services.AddMediatR(typeof(GetProducts.Handler).Assembly);
 builder.Services.AddFluentValidationAutoValidation();
 builder.Services.AddValidatorsFromAssemblyContaining<CreatePhrase>();
-
+builder.Services.AddScoped<IUtil, Util>();
 var app = builder.Build();
 
 app.UseMiddleware<MiddlewareErrorHandler>();

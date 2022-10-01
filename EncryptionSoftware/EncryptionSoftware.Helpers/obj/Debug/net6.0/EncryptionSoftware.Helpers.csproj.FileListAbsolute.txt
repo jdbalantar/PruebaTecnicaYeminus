@@ -22,3 +22,15 @@ C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\Prueba
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\refint\EncryptionSoftware.Helpers.dll
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.pdb
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\ref\EncryptionSoftware.Helpers.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\bin\Debug\net6.0\EncryptionSoftware.Helpers.deps.json
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\bin\Debug\net6.0\EncryptionSoftware.Helpers.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\bin\Debug\net6.0\EncryptionSoftware.Helpers.pdb
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.csproj.AssemblyReference.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.AssemblyInfoInputs.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.AssemblyInfo.cs
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.csproj.CoreCompileInputs.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\refint\EncryptionSoftware.Helpers.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\EncryptionSoftware.Helpers.pdb
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Helpers\obj\Debug\net6.0\ref\EncryptionSoftware.Helpers.dll

@@ -22,3 +22,15 @@ C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\Prueba
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\refint\EncryptionSoftware.Domain.dll
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.pdb
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\ref\EncryptionSoftware.Domain.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\bin\Debug\net6.0\EncryptionSoftware.Domain.deps.json
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\bin\Debug\net6.0\EncryptionSoftware.Domain.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\bin\Debug\net6.0\EncryptionSoftware.Domain.pdb
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.csproj.AssemblyReference.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.AssemblyInfoInputs.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.AssemblyInfo.cs
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.csproj.CoreCompileInputs.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\refint\EncryptionSoftware.Domain.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\EncryptionSoftware.Domain.pdb
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Domain\obj\Debug\net6.0\ref\EncryptionSoftware.Domain.dll

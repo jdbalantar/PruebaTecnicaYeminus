@@ -17,10 +17,12 @@ namespace EncryptionSoftware.Application.FraseEncriptar
         public class Handler : IRequestHandler<DecryptPhrase.CommandDecryptPhrase>
         {
             private readonly EncryptionSoftwareContext _context;
+            private readonly IUtil _util;
 
-            public Handler(EncryptionSoftwareContext context)
+            public Handler(EncryptionSoftwareContext context, IUtil util)
             {
                 _context = context;
+                _util = util;
             }
 
             public async Task<Unit> Handle(CommandDecryptPhrase request, CancellationToken cancellationToken)
@@ -36,7 +38,7 @@ namespace EncryptionSoftware.Application.FraseEncriptar
 
                 var frase = new string(phraseEncrypted.Frase);
 
-                var phraseDecrypted = Util.Decrypt(frase, 5);
+                var phraseDecrypted = _util.Decrypt(frase, 5);
                 phraseEncrypted.Frase = phraseDecrypted;
 
                 var value = await _context.SaveChangesAsync(cancellationToken);

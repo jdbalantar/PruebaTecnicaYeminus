@@ -37,10 +37,12 @@ namespace EncryptionSoftware.Application.Product
         public class Handler : IRequestHandler<CommandCreateProduct>
         {
             private readonly EncryptionSoftwareContext _context;
+            private readonly IUtil _util;
 
-            public Handler(EncryptionSoftwareContext context)
+            public Handler(EncryptionSoftwareContext context, IUtil util)
             {
                 _context = context;
+                _util = util;
             }
 
             public async Task<Unit> Handle(CommandCreateProduct request, CancellationToken cancellationToken)
@@ -52,13 +54,13 @@ namespace EncryptionSoftware.Application.Product
                     Iva = request.Iva
                 };
 
-                if (Util.ImgUrlIsValid(request.Imagen))
+                if (_util.ImgUrlIsValid(request.Imagen))
                     product.Imagen = request.Imagen;
                 else
                     throw new RestException(HttpStatusCode.BadRequest,
                         "La Url de la imágen es inválida. Inténtelo nuevamente");
 
-                if (product.ListaDePrecios is { Count: > 0 })
+                if (product.ListaDePrecios is {Count: > 0})
                 {
                     foreach (var precio in request.ListaDePrecios)
                     {

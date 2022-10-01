@@ -36,3 +36,22 @@ C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\Prueba
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\refint\EncryptionSoftware.Application.dll
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\EncryptionSoftware.Application.pdb
 C:\Users\davo-\OneDrive\Escritorio\ProyectosProgramacion\Pruebas Tecnicas\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\ref\EncryptionSoftware.Application.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\bin\Debug\net6.0\EncryptionSoftware.Application.deps.json
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\bin\Debug\net6.0\EncryptionSoftware.Application.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\bin\Debug\net6.0\EncryptionSoftware.Application.pdb
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\bin\Debug\net6.0\EncryptionSoftware.Domain.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\bin\Debug\net6.0\EncryptionSoftware.Helpers.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\bin\Debug\net6.0\EncryptionSoftware.Persistence.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\bin\Debug\net6.0\EncryptionSoftware.Domain.pdb
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\bin\Debug\net6.0\EncryptionSoftware.Helpers.pdb
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\bin\Debug\net6.0\EncryptionSoftware.Persistence.pdb
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\EncryptionSoftware.Application.csproj.AssemblyReference.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\EncryptionSoftware.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\EncryptionSoftware.Application.AssemblyInfoInputs.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\EncryptionSoftware.Application.AssemblyInfo.cs
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\EncryptionSoftware.Application.csproj.CoreCompileInputs.cache
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\EncryptionSoftware.Application.csproj.CopyComplete
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\EncryptionSoftware.Application.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\refint\EncryptionSoftware.Application.dll
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\EncryptionSoftware.Application.pdb
+D:\Escritorio\PruebaTecnicaYeminus\EncryptionSoftware\EncryptionSoftware.Application\obj\Debug\net6.0\ref\EncryptionSoftware.Application.dll

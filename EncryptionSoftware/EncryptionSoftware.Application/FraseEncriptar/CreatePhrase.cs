@@ -1,4 +1,6 @@
-﻿using EncryptionSoftware.Helpers;
+﻿using System.Net;
+using EncryptionSoftware.Application.ErrorHandler;
+using EncryptionSoftware.Helpers;
 using EncryptionSoftware.Persistence;
 using FluentValidation;
 using MediatR;
@@ -30,17 +32,28 @@ namespace EncryptionSoftware.Application.FraseEncriptar
         public class Handler : IRequestHandler<CommandEncriptPhrase>
         {
             private readonly EncryptionSoftwareContext _context;
+            private readonly IUtil _util;
 
-            public Handler(EncryptionSoftwareContext context)
+            public Handler(EncryptionSoftwareContext context, IUtil util)
             {
                 _context = context;
+                _util = util;
             }
 
             public async Task<Unit> Handle(CommandEncriptPhrase request, CancellationToken cancellationToken)
             {
-                var phrase = new Domain.Frases { Frase = Util.Encrypt(request.Frase, request.Clave) };
+                var phrase = new Domain.Frases {Frase = _util.Encrypt(request.Frase, request.Clave)};
 
-                _context.Frases.Add(phrase);
+
+                try
+                {
+                    _context.Frases.Add(phrase);
+                }
+                catch (Exception)
+                {
+                    throw new RestException(HttpStatusCode.InternalServerError,
+                        new {message = "Lo sentimos. No pudimos encriptar su frase"});
+                }
 
                 var value = await _context.SaveChangesAsync(cancellationToken);
 
